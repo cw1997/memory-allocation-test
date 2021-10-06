@@ -1,1 +1,1 @@
-add_executable(memory-allocation-test main.c)
+add_executable(memory-allocation-test_${OUTPUT_FILENAME_SUFFIX} main.c)
