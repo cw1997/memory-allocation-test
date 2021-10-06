@@ -44,7 +44,7 @@ jobs:
         title: latest-release
         prerelease: false
         files: |
-          build/bin/*
+          build/bin/RelWithDebInfo/*
 
 
 #       id: create_release
