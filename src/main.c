@@ -16,6 +16,7 @@ int memory_alloc_with_setting(size_t size) {
     printf("allocate spent %f sec\n", duration);
     printf("allocate end\n");
 
+    printf("please any key to start memset...");
     getch();
 
     printf("memset start\n");
